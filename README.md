@@ -3,6 +3,7 @@ Long ago, in the before times (about 2019), a young Mage skilled in the craft of
 
 [![GitHub license](https://img.shields.io/github/license/cocodedesigns/pzero-plugin?style=for-the-badge)](https://raw.githubusercontent.com/cocodedesigns/pzero-plugin/master/LICENSE.md)
 ![GitHub release](https://img.shields.io/github/release/cocodedesigns/pzero-plugin?style=for-the-badge)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fthewpbard%2Fprojectzero-plugin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fthewpbard%2Fprojectzero-plugin?ref=badge_shield)
 
 ## New name, who dis?
 What started as a quick beginner theme for me to spin up for a client project has now become a standalone project to help other WordPress developers to create themes quickly.  Project Zero now comprises of a theme and a plugin which can work together and utilise a number of WordPress best practices.  It is from the most recent build of the theme that the plugin was spawned.
@@ -28,3 +29,6 @@ This theme has been created with thanks to a number of different projects. These
 This means that this theme can be shared and ported over to different websites, including commercial websites. Other works and plugins used as part of this theme are licensed under their own agreements.
 
 To see a log of all the updates made to this theme, view the CHANGELOG.  We recommend maintaining a CHANGELOG file for your own theme so you can keep track of changes you have made. This will also show your client what progress you have made on work.
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fthewpbard%2Fprojectzero-plugin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fthewpbard%2Fprojectzero-plugin?ref=badge_large)
